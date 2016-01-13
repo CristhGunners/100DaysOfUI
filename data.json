@@ -385,5 +385,14 @@
             "dribbble":"https://dribbble.com/shots/2452662-Day-043-Text-Edit",
             "instagram":"https://www.instagram.com/p/BAcRNQUhi8S/"
         }
+    },
+    {
+        "day": "044",
+        "title": "Simple Navigation Widget",
+        "src": "images/shots/Day 044 - Simple Navigation Widget.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2455189-Day-044-Simple-Navigation-Widget",
+            "instagram":"https://www.instagram.com/p/BAe1pwVhi_7/"
+        }
     }
 ]
