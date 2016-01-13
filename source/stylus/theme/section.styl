@@ -1,0 +1,111 @@
+section
+    width 100%
+    padding 1em
+    box-sizing border-box
+
+    button
+        background-color white
+        color green1
+        line-height 4
+        padding 0 2em
+        box-sizing border-box
+        border-radius 2em
+        border 0
+        font-size 0.8em
+        margin 1em auto
+        display block
+        border 1px solid green1
+        transition all 0.2s
+        cursor pointer
+        text-transform uppercase
+
+        &:hover
+            background-color green1
+            color white
+
+    article.shot
+        margin 1em auto
+        display flex
+        align-items center
+        justify-content center
+        flex-flow column
+        max-width 600px
+
+        .title
+            display flex
+            align-items center
+            justify-content center
+            flex-flow row wrap
+            margin 0.5em 0
+            margin-right auto
+            width 100%
+
+            h2
+                color gray1
+                margin 0
+                margin-right auto
+                font-weight bold
+                font-size 1.25em
+
+            nav
+                margin 0
+                margin-left auto
+                display flex
+                align-items center
+                justify-content center
+                flex-flow row wrap
+
+                a
+                    color gray1
+                    text-decoration none
+                    font-size 1.5em
+                    margin 0 0.25em
+
+                    &.instagram
+                        color instagram
+
+                    &.dribbble
+                        color dribbble
+
+                    span
+                        &:before
+                            display block
+
+        h3
+            color dribbble
+            font-weight 900
+            font-size 2.5em
+            margin 0.5em auto
+
+        figure
+            max-width 600px
+            width 100%
+            margin 0 auto 1em
+
+            img
+                display block
+                width 100%
+
+@media mqmovil
+
+    body
+        section
+            article.shot
+                .title
+                    h2
+                        font-size 1.5em
+
+                h3
+                    font-size 3.5em
+
+@media mqtablet
+
+    body
+        section
+            article.shot
+                .title
+                    h2
+                        font-size 1.75em
+
+                h3
+                    font-size 4.5em

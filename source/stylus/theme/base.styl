@@ -1,0 +1,40 @@
+*
+   outline none
+
+body
+    font-size 16px
+    font-family fontRoboto
+    font-weight 400
+    padding 0
+    margin 0
+    display flex
+    align-items center
+    flex-flow column wrap
+    justify-content center
+    background-color white
+
+    button.top
+        position fixed
+        bottom 1em
+        right -15%
+        color white
+        background-color dribbble
+        border 0
+        padding 0.5em
+        box-sizing border-box
+        transition all 0.5s
+        z-index 9999
+        cursor pointer
+
+        &.is-visible
+            right 1em
+
+        &.fade-out
+            opacity 1
+
+            &:hover
+                opacity 1
+
+        span
+            &:before
+                vertical-align top
