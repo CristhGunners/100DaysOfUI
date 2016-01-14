@@ -394,5 +394,14 @@
             "dribbble":"https://dribbble.com/shots/2455189-Day-044-Simple-Navigation-Widget",
             "instagram":"https://www.instagram.com/p/BAe1pwVhi_7/"
         }
+    },
+    {
+        "day": "045",
+        "title": "Search Header",
+        "src": "images/shots/Day 045 - Search Header.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2457907-Day-045-Search-Header",
+            "instagram":"https://www.instagram.com/p/BAhg4OwBi9l/"
+        }
     }
 ]
