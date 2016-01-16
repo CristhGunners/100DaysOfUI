@@ -412,5 +412,14 @@
             "dribbble":"https://dribbble.com/shots/2460531-Day-046-Start-Engine",
             "instagram":"https://www.instagram.com/p/BAkR1nYBi6h/"
         }
+    },
+    {
+        "day": "047",
+        "title": "Contact Card",
+        "src": "images/shots/Day 047 - Contact Card.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2461865-Day-047-Contact-Card",
+            "instagram":"https://www.instagram.com/p/BAmo_qZhixa/"
+        }
     }
 ]
