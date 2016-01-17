@@ -421,5 +421,14 @@
             "dribbble":"https://dribbble.com/shots/2461865-Day-047-Contact-Card",
             "instagram":"https://www.instagram.com/p/BAmo_qZhixa/"
         }
+    },
+    {
+        "day": "048",
+        "title": "Speedometer",
+        "src": "images/shots/Day 048 - Speedometer.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2462917-Day-048-Speedometer",
+            "instagram":"https://www.instagram.com/p/BApLB7eBi8v/"
+        }
     }
 ]
