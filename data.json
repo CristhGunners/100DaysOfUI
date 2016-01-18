@@ -430,5 +430,14 @@
             "dribbble":"https://dribbble.com/shots/2462917-Day-048-Speedometer",
             "instagram":"https://www.instagram.com/p/BApLB7eBi8v/"
         }
+    },
+    {
+        "day": "049",
+        "title": "Movie Card",
+        "src": "images/shots/Day 049 - Movie Card.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2464704-Day-049-Movie-Card",
+            "instagram":"https://www.instagram.com/p/BArx_J_hixe/"
+        }
     }
 ]
