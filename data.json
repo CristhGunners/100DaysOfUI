@@ -439,5 +439,14 @@
             "dribbble":"https://dribbble.com/shots/2464704-Day-049-Movie-Card",
             "instagram":"https://www.instagram.com/p/BArx_J_hixe/"
         }
+    },
+    {
+        "day": "050",
+        "title": "HR Widget",
+        "src": "images/shots/Day 050 - HR Widget.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2467273-Day-050-Hr-Widget",
+            "instagram":"https://www.instagram.com/p/BAuUZwlhiyb/"
+        }
     }
 ]
