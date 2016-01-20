@@ -448,5 +448,14 @@
             "dribbble":"https://dribbble.com/shots/2467273-Day-050-Hr-Widget",
             "instagram":"https://www.instagram.com/p/BAuUZwlhiyb/"
         }
+    },
+    {
+        "day": "051",
+        "title": "Shots Statistic",
+        "src": "images/shots/Day 051 - Shots Statistic.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2470129-Day-051-Shots-Statistic",
+            "instagram":"https://www.instagram.com/p/BAxAnRuBi1G/"
+        }
     }
 ]
