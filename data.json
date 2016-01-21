@@ -457,5 +457,14 @@
             "dribbble":"https://dribbble.com/shots/2470129-Day-051-Shots-Statistic",
             "instagram":"https://www.instagram.com/p/BAxAnRuBi1G/"
         }
+    },
+    {
+        "day": "052",
+        "title": "Daily Inspiration",
+        "src": "images/shots/Day 052 - Daily Inspiration.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2472629-Day-052-Daily-Inspiration",
+            "instagram":"https://www.instagram.com/p/BAzflrDhi2Y/"
+        }
     }
 ]
