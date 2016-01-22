@@ -466,5 +466,14 @@
             "dribbble":"https://dribbble.com/shots/2472629-Day-052-Daily-Inspiration",
             "instagram":"https://www.instagram.com/p/BAzflrDhi2Y/"
         }
+    },
+    {
+        "day": "053",
+        "title": "Chat UI",
+        "src": "images/shots/Day 053 - Chat UI.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2475262-Day-053-Chat-UI",
+            "instagram":"https://www.instagram.com/p/BA2LvZwhi_0/"
+        }
     }
 ]
