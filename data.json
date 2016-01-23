@@ -475,5 +475,14 @@
             "dribbble":"https://dribbble.com/shots/2475262-Day-053-Chat-UI",
             "instagram":"https://www.instagram.com/p/BA2LvZwhi_0/"
         }
+    },
+    {
+        "day": "054",
+        "title": "Spotlight Search",
+        "src": "images/shots/Day 054 - Spotlight Search.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2476766-Day-054-Spotlight-Search",
+            "instagram":"https://www.instagram.com/p/BA4fcRRhi2j/"
+        }
     }
 ]
