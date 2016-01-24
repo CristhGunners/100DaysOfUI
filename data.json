@@ -484,5 +484,14 @@
             "dribbble":"https://dribbble.com/shots/2476766-Day-054-Spotlight-Search",
             "instagram":"https://www.instagram.com/p/BA4fcRRhi2j/"
         }
+    },
+    {
+        "day": "055",
+        "title": "Add To",
+        "src": "images/shots/Day 055 - Add To.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2478208-Day-055-Add-To",
+            "instagram":"https://www.instagram.com/p/BA7QuvEhi1y/"
+        }
     }
 ]
