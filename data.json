@@ -493,5 +493,14 @@
             "dribbble":"https://dribbble.com/shots/2478208-Day-055-Add-To",
             "instagram":"https://www.instagram.com/p/BA7QuvEhi1y/"
         }
+    },
+    {
+        "day": "056",
+        "title": "Language Selector",
+        "src": "images/shots/Day 056 - Language Selector.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2480222-Day-056-Language-Selector",
+            "instagram":"https://www.instagram.com/p/BA922F1Biyu/"
+        }
     }
 ]
