@@ -511,5 +511,14 @@
             "dribbble":"https://dribbble.com/shots/2482861-Day-057-Twitter-Profile",
             "instagram":"https://www.instagram.com/p/BBAcGwbhi50/"
         }
+    },
+    {
+        "day": "058",
+        "title": "Daily Traffic",
+        "src": "images/shots/Day 058 - Daily Traffic.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2485783-Day-058-Daily-Traffic",
+            "instagram":"https://www.instagram.com/p/BBDFQdRBixJ/"
+        }
     }
 ]
