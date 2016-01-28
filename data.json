@@ -520,5 +520,14 @@
             "dribbble":"https://dribbble.com/shots/2485783-Day-058-Daily-Traffic",
             "instagram":"https://www.instagram.com/p/BBDFQdRBixJ/"
         }
+    },
+    {
+        "day": "059",
+        "title": "Limited Time Offer",
+        "src": "images/shots/Day 059 - Limited Time Offer.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2488320-Day-059-Limited-Time-Offer",
+            "instagram":"https://www.instagram.com/p/BBFnpDWhi82/"
+        }
     }
 ]
