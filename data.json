@@ -547,5 +547,14 @@
             "dribbble":"https://dribbble.com/shots/2493024-Day-061-What-The-Font",
             "instagram":"https://www.instagram.com/p/BBLPS_UBi97/"
         }
+    },
+    {
+        "day": "062",
+        "title": "Settings",
+        "src": "images/shots/Day 062 - Settings.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2493898-Day-062-Settings",
+            "instagram":"https://www.instagram.com/p/BBNQgHvBizt/"
+        }
     }
 ]
