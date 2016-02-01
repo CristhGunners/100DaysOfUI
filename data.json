@@ -556,5 +556,14 @@
             "dribbble":"https://dribbble.com/shots/2493898-Day-062-Settings",
             "instagram":"https://www.instagram.com/p/BBNQgHvBizt/"
         }
+    },
+    {
+        "day": "063",
+        "title": "Fashion Header",
+        "src": "images/shots/Day 063 - Fashion Header.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2495937-Day-063-Fashion-Header",
+            "instagram":"https://www.instagram.com/p/BBP3-Iohi4X/"
+        }
     }
 ]
