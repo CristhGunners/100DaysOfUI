@@ -565,5 +565,14 @@
             "dribbble":"https://dribbble.com/shots/2495937-Day-063-Fashion-Header",
             "instagram":"https://www.instagram.com/p/BBP3-Iohi4X/"
         }
+    },
+    {
+        "day": "064",
+        "title": "Collage Maker",
+        "src": "images/shots/Day 064 - Collage Maker.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2498731-Day-064-Collage-Maker",
+            "instagram":"https://www.instagram.com/p/BBSc9KWBi_u/"
+        }
     }
 ]
