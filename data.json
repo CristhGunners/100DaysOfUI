@@ -574,5 +574,14 @@
             "dribbble":"https://dribbble.com/shots/2498731-Day-064-Collage-Maker",
             "instagram":"https://www.instagram.com/p/BBSc9KWBi_u/"
         }
+    },
+    {
+        "day": "065",
+        "title": "Newsfeed UI",
+        "src": "images/shots/Day 065 - Newsfeed UI.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2501402-Day-065-Newsfeed-UI",
+            "instagram":"https://www.instagram.com/p/BBVAaZ6hi-r/"
+        }
     }
 ]
