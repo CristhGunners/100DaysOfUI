@@ -583,5 +583,14 @@
             "dribbble":"https://dribbble.com/shots/2501402-Day-065-Newsfeed-UI",
             "instagram":"https://www.instagram.com/p/BBVAaZ6hi-r/"
         }
+    },
+    {
+        "day": "066",
+        "title": "Radio Card",
+        "src": "images/shots/Day 066 - Radio Card.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2504223-Day-066-Radio-Card",
+            "instagram":"https://www.instagram.com/p/BBXn5mRhi2k/"
+        }
     }
 ]
