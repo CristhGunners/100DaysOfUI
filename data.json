@@ -610,5 +610,14 @@
             "dribbble":"https://dribbble.com/shots/2508456-Day-068-Date-Picker-Scroll",
             "instagram":"https://www.instagram.com/p/BBd4DMqhi76/"
         }
+    },
+    {
+        "day": "069",
+        "title": "Baby Monitor",
+        "src": "images/shots/Day 069 - Baby Monitor.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2509626-Day-069-Baby-Monitor",
+            "instagram":"https://www.instagram.com/p/BBfQqV5Bi3I/"
+        }
     }
 ]
