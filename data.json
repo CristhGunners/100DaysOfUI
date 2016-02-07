@@ -601,5 +601,14 @@
             "dribbble":"https://dribbble.com/shots/2506740-Day-067-Smart-Home-UI",
             "instagram":"https://www.instagram.com/p/BBaMUXWBi3a/"
         }
+    },
+    {
+        "day": "068",
+        "title": "Date Picker Scroll",
+        "src": "images/shots/Day 068 - Date Picker Scroll.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2508456-Day-068-Date-Picker-Scroll",
+            "instagram":"https://www.instagram.com/p/BBd4DMqhi76/"
+        }
     }
 ]
