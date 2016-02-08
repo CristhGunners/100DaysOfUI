@@ -619,5 +619,14 @@
             "dribbble":"https://dribbble.com/shots/2509626-Day-069-Baby-Monitor",
             "instagram":"https://www.instagram.com/p/BBfQqV5Bi3I/"
         }
+    },
+    {
+        "day": "070",
+        "title": "Order Food",
+        "src": "images/shots/Day 070 - Order Food.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2511755-Day-070-Order-Food",
+            "instagram":"https://www.instagram.com/p/BBh_Yf1Bi__/"
+        }
     }
 ]
