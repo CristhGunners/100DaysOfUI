@@ -628,5 +628,14 @@
             "dribbble":"https://dribbble.com/shots/2511755-Day-070-Order-Food",
             "instagram":"https://www.instagram.com/p/BBh_Yf1Bi__/"
         }
+    },
+    {
+        "day": "071",
+        "title": "Smart TV",
+        "src": "images/shots/Day 071 - Smart TV.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2514193-Day-071-Smart-TV",
+            "instagram":"https://www.instagram.com/p/BBkcIR9Bi8Y/"
+        }
     }
 ]
