@@ -637,5 +637,14 @@
             "dribbble":"https://dribbble.com/shots/2514193-Day-071-Smart-TV",
             "instagram":"https://www.instagram.com/p/BBkcIR9Bi8Y/"
         }
+    },
+    {
+        "day": "072",
+        "title": "Clock",
+        "src": "images/shots/Day 072 - Clock.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2516962-Day-072-Clock",
+            "instagram":"https://www.instagram.com/p/BBnAGeXhi4-/"
+        }
     }
 ]
