@@ -646,5 +646,14 @@
             "dribbble":"https://dribbble.com/shots/2516962-Day-072-Clock",
             "instagram":"https://www.instagram.com/p/BBnAGeXhi4-/"
         }
+    },
+    {
+        "day": "073",
+        "title": "Account Settings",
+        "src": "images/shots/Day 073 - Account Settings.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2519545-Day-073-Account-Settings",
+            "instagram":"https://www.instagram.com/p/BBpl9iYBiye/"
+        }
     }
 ]
