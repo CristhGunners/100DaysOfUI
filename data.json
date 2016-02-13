@@ -664,5 +664,14 @@
             "dribbble":"https://dribbble.com/shots/2522145-Day-074-Boarding-Pass",
             "instagram":"https://www.instagram.com/p/BBsRwMBBi-6/"
         }
+    },
+    {
+        "day": "075",
+        "title": "Football Application",
+        "src": "images/shots/Day 075 - Football Application.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2523890-Day-075-Football-Application",
+            "instagram":"https://www.instagram.com/p/BBvDiEqBiwV/"
+        }
     }
 ]
