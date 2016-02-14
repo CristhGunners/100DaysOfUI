@@ -673,5 +673,14 @@
             "dribbble":"https://dribbble.com/shots/2523890-Day-075-Football-Application",
             "instagram":"https://www.instagram.com/p/BBvDiEqBiwV/"
         }
+    },
+    {
+        "day": "076",
+        "title": "Create a New Project Modal",
+        "src": "images/shots/Day 076 - Create a New Project Modal.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2524916-Day-076-Create-A-New-Project-Modal",
+            "instagram":"https://www.instagram.com/p/BBxShpbhi-1/"
+        }
     }
 ]
