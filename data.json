@@ -682,5 +682,14 @@
             "dribbble":"https://dribbble.com/shots/2524916-Day-076-Create-A-New-Project-Modal",
             "instagram":"https://www.instagram.com/p/BBxShpbhi-1/"
         }
+    },
+    {
+        "day": "077",
+        "title": "Choose Category",
+        "src": "images/shots/Day 077 - Choose Category.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2527023-Day-077-Choose-Category",
+            "instagram":"https://www.instagram.com/p/BB0CuEHhi2X/"
+        }
     }
 ]
