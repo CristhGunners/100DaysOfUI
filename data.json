@@ -691,5 +691,14 @@
             "dribbble":"https://dribbble.com/shots/2527023-Day-077-Choose-Category",
             "instagram":"https://www.instagram.com/p/BB0CuEHhi2X/"
         }
+    },
+    {
+        "day": "078",
+        "title": "TV UI - Player Card",
+        "src": "images/shots/Day 078 - TV UI - Player Card.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2529561-Day-078-TV-UI-Player-Card",
+            "instagram":"https://www.instagram.com/p/BB2i3AeBiwp/"
+        }
     }
 ]
