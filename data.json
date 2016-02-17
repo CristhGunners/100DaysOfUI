@@ -700,5 +700,14 @@
             "dribbble":"https://dribbble.com/shots/2529561-Day-078-TV-UI-Player-Card",
             "instagram":"https://www.instagram.com/p/BB2i3AeBiwp/"
         }
+    },
+    {
+        "day": "079",
+        "title": "Collapsable Sidebar",
+        "src": "images/shots/Day 079 - Collapsable Sidebar.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2532052-Day-079-Collapsable-Sidebar",
+            "instagram":"https://www.instagram.com/p/BB4_D7Mhi37/"
+        }
     }
 ]
