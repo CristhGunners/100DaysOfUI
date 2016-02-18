@@ -709,5 +709,14 @@
             "dribbble":"https://dribbble.com/shots/2532052-Day-079-Collapsable-Sidebar",
             "instagram":"https://www.instagram.com/p/BB4_D7Mhi37/"
         }
+    },
+    {
+        "day": "080",
+        "title": "VU Meter",
+        "src": "images/shots/Day 080 - VU Meter.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2535005-Day-080-VU-Meter",
+            "instagram":"https://www.instagram.com/p/BB7ojF9hixI/"
+        }
     }
 ]
