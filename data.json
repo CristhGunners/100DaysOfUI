@@ -727,5 +727,14 @@
             "dribbble":"https://dribbble.com/shots/2537634-Day-081-Floating-Bookshelf",
             "instagram":"https://www.instagram.com/p/BB-MMvzBiy_/"
         }
+    },
+    {
+        "day": "082",
+        "title": "Advanced Search",
+        "src": "images/shots/Day 082 - Advanced Search.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2539448-Day-082-Advanced-Search",
+            "instagram":"https://www.instagram.com/p/BCAuILWhiz1/"
+        }
     }
 ]
