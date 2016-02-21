@@ -736,5 +736,14 @@
             "dribbble":"https://dribbble.com/shots/2539448-Day-082-Advanced-Search",
             "instagram":"https://www.instagram.com/p/BCAuILWhiz1/"
         }
+    },
+    {
+        "day": "083",
+        "title": "Social Connect",
+        "src": "images/shots/Day 083 - Social Connect.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2540590-Day-083-Social-Connect",
+            "instagram":"https://www.instagram.com/p/BCDVT17Bi15/"
+        }
     }
 ]
