@@ -754,5 +754,14 @@
             "dribbble":"https://dribbble.com/shots/2542546-Day-084-Doodle-Message",
             "instagram":"https://www.instagram.com/p/BCF6xlRhi0w/"
         }
+    },
+    {
+        "day": "085",
+        "title": "Cinema Application",
+        "src": "images/shots/Day 085 - Cinema Application.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2545378-Day-085-Cinema-Application",
+            "instagram":"https://www.instagram.com/p/BCIjwo1hi3S/"
+        }
     }
 ]
