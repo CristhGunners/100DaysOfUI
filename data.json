@@ -772,5 +772,14 @@
             "dribbble":"https://dribbble.com/shots/2548009-Day-086-Order-Tracking",
             "instagram":"https://www.instagram.com/p/BCLG_-SBiwG/"
         }
+    },
+    {
+        "day": "087",
+        "title": "Guitar Tuner",
+        "src": "images/shots/Day 087 - Guitar Tuner.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2550978-Day-087-Guitar-Tuner",
+            "instagram":"https://www.instagram.com/p/BCN3YIRhi1U/"
+        }
     }
 ]
