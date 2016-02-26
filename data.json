@@ -781,5 +781,14 @@
             "dribbble":"https://dribbble.com/shots/2550978-Day-087-Guitar-Tuner",
             "instagram":"https://www.instagram.com/p/BCN3YIRhi1U/"
         }
+    },
+    {
+        "day": "088",
+        "title": "Leadearboard",
+        "src": "images/shots/Day 088 - Leadearboard.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2553353-Day-088-Leadearboard",
+            "instagram":"https://www.instagram.com/p/BCQUv9Ehi3X/"
+        }
     }
 ]
