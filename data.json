@@ -808,5 +808,14 @@
             "dribbble":"https://dribbble.com/shots/2556203-Day-090-Equalizer",
             "instagram":"https://www.instagram.com/p/BCVaBnhBi-I/"
         }
+    },
+    {
+        "day": "091",
+        "title": "Slide",
+        "src": "images/shots/Day 091 - Slide.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2558232-Day-091-Slide",
+            "instagram":"https://www.instagram.com/p/BCYCUv8hi8Z/"
+        }
     }
 ]
