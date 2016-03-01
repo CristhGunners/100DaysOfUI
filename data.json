@@ -817,5 +817,14 @@
             "dribbble":"https://dribbble.com/shots/2558232-Day-091-Slide",
             "instagram":"https://www.instagram.com/p/BCYCUv8hi8Z/"
         }
+    },
+    {
+        "day": "092",
+        "title": "Statement",
+        "src": "images/shots/Day 092 - Statement.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2560666-Day-092-Statement",
+            "instagram":"https://www.instagram.com/p/BCaibNBhiwV/"
+        }
     }
 ]
