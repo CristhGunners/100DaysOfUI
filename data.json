@@ -835,5 +835,14 @@
             "dribbble":"https://dribbble.com/shots/2563337-Day-093-To-Do",
             "instagram":"https://www.instagram.com/p/BCdD-f7Biy7/"
         }
+    },
+    {
+        "day": "094",
+        "title": "Mobile Keyboard",
+        "src": "images/shots/Day 094 - Mobile Keyboard.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2566062-Day-094-Mobile-Keyboard",
+            "instagram":"https://www.instagram.com/p/BCfsa6_hi6O/"
+        }
     }
 ]
