@@ -862,5 +862,14 @@
             "dribbble":"https://dribbble.com/shots/2570290-Day-096-What-Is-Your-Budget",
             "instagram":"https://www.instagram.com/p/BCk5jychi0Q/"
         }
+    },
+    {
+        "day": "097",
+        "title": "Washing Machine UI",
+        "src": "images/shots/Day 097 - Washing Machine UI.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2571354-Day-097-Washing-Machine-UI",
+            "instagram":"https://www.instagram.com/p/BCnb5wTBiw9/"
+        }
     }
 ]
