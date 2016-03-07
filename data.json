@@ -871,5 +871,14 @@
             "dribbble":"https://dribbble.com/shots/2571354-Day-097-Washing-Machine-UI",
             "instagram":"https://www.instagram.com/p/BCnb5wTBiw9/"
         }
+    },
+    {
+        "day": "098",
+        "title": "Calories Calculator",
+        "src": "images/shots/Day 098 - Calories Calculator.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2573051-Day-098-Calories-Calculator",
+            "instagram":"https://www.instagram.com/p/BCp-5vthi8k/"
+        }
     }
 ]
