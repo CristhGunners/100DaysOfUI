@@ -880,5 +880,14 @@
             "dribbble":"https://dribbble.com/shots/2573051-Day-098-Calories-Calculator",
             "instagram":"https://www.instagram.com/p/BCp-5vthi8k/"
         }
+    },
+    {
+        "day": "099",
+        "title": "Message Notification",
+        "src": "images/shots/Day 099 - Message Notification.jpg",
+        "links": {
+            "dribbble":"https://dribbble.com/shots/2575608-Day-099-Message-Notification",
+            "instagram":"https://www.instagram.com/p/BCsiT2SBi_h/"
+        }
     }
 ]
